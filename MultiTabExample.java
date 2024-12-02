@@ -2,7 +2,7 @@ import javax.swing.*;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-public class MultiTabExample {
+public class Main {
     public static void main(String[] args) {
         JFrame frame = new JFrame("StudyNAV");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
