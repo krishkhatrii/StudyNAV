@@ -1,0 +1,9 @@
+Finance,Play,DD,Play,Play
+DD,Logics,Logics,Logics,Play
+Rest,DD,Play,Play,Play
+Rest,Study,Study,POE,Study
+Rest,Rest,DD,Play,Study
+Logics,POE,Play,Rest,Study
+DD,Rest,OOPS,DD,Rest
+Study,Play,Rest,Play,Study
+Study,Play,Study,Play,Study
