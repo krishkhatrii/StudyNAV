@@ -4,7 +4,7 @@ import javax.swing.event.ChangeListener;
 
 public class MultiTabExample {
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Multi-Tab Example");
+        JFrame frame = new JFrame("StudyNAV");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(700, 700);
         MainAppSwing tb = new MainAppSwing();
